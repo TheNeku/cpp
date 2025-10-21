@@ -1,0 +1,111 @@
+# **Lezione 0 – Introduzione al Corso di C++**
+
+### **Perché il C++?**
+
+Il C++ è uno di quei linguaggi che, nonostante la sua lunga storia, continua a essere fondamentale nello sviluppo di software complesso e ad alte prestazioni.
+È stato progettato per unire l'innovazione che ha portato il linguaggio C — vicino all’hardware e alle risorse di sistema — con l'organizzazione della programmazione orientata agli oggetti.
+Questo linguaggio offre allo sviluppotaore un certo controllo e una infinita libertà di scelta.
+Come disse lo stesso creatore Bjarne Stroustrup:  
+> “C++ was designed to be a language for serious programmers who want to solve real-world problems with efficiency and control.”
+
+Questa ha permesso al C++ di rimanere attuale per decenni.
+Dalle simulazioni scientifiche ai videogiochi, dai sistemi operativi ai motori grafici, il C++ continua a essere il linguaggio di riferimento e probabilmente lo rimarrà ancora per qualche decennio.
+
+### **Obiettivo della Lezione**
+
+In questa prima lezione vengono presentati gli obiettivi, la struttura e il metodo didattico del corso.
+Il percorso è progettato per accompagnarti passo dopo passo nello studio del linguaggio C++, anche senza alcuna esperienza di programmazione precedente.
+
+Benvenuto nel corso di C++!
+L’obiettivo principale di queste lezioni è rendere l’apprendimento del C++ chiaro, graduale e accessibile a tutti.
+A differenza di molti manuali o siti web che danno per scontate conoscenze pregresse, questo corso parte dalle basi assolute, guidandoti verso la piena padronanza del linguaggio attraverso spiegazioni dettagliate ed esempi pratici.  
+Che tu voglia imparare per passione personale o per motivi professionali, questo percorso ti fornirà solide fondamenta per scrivere programmi efficienti e ben strutturati.
+
+## **Struttura del Corso**
+
+Il capitolo introduttivo fornisce il contesto necessario per comprendere:
+
+* cos’è il linguaggio C++;
+* come e perché è nato;
+* come funziona un programma al livello logico e pratico;
+* quale software è necessario installare per iniziare a scrivere codice.
+
+Concluderai questa parte creando il tuo primo semplice programma in C++.
+
+I capitoli successivi esploreranno in modo sistematico le diverse componenti del linguaggio.
+Il **Capitolo 1** offrirà una panoramica generale dei concetti fondamentali, sufficiente per iniziare a scrivere piccoli programmi.
+Dalle sezioni successive in poi, ogni argomento verrà approfondito nel dettaglio, integrando nuovi concetti e buone pratiche di sviluppo.
+
+Ogni capitolo segue una tematica principale, e le lezioni al suo interno sono collegate logicamente a quella tematica.
+Non esiste un tempo prestabilito per ogni sezione: il ritmo di apprendimento deve essere personale e regolare.
+
+## **Obiettivi del Corso**
+
+1. **Integrare teoria del linguaggio e principi di programmazione.**
+   Il corso non si limita a spiegare la sintassi del C++, ma introduce anche argomenti trasversali come lo stile di scrittura, il debug, le buone e cattive pratiche di sviluppo, e la gestione degli errori.
+   Imparare a scrivere codice corretto è importante quanto imparare *come evitare* di scrivere codice sbagliato.
+
+2. **Offrire numerosi esempi pratici.**
+   Gli esempi sono fondamentali per comprendere davvero come funziona il linguaggio.
+   Ogni sezione include frammenti di codice completi e commentati, senza omissioni o passaggi impliciti.
+   Verranno sempre introdotti solo i concetti già spiegati o spiegati immediatamente dopo.
+
+3. **Favorire la sperimentazione diretta.**
+   Sebbene non siano presenti esercizi formali in questa versione, molte lezioni includeranno spunti per modificare o estendere gli esempi.
+   L’obiettivo è abituare lo studente a sperimentare, osservare e comprendere il comportamento del codice.
+
+4. **Promuovere un approccio piacevole e sostenibile.**
+   La programmazione è più efficace quando la si affronta con curiosità e serenità.
+   La stanchezza o la frustrazione portano a errori evitabili.
+   Imparare a programmare significa anche imparare a gestire il proprio ritmo di studio.
+
+## **Come posso ottenre il massimo da questo corso**
+
+Per sfruttare appieno le lezioni, si raccomanda di seguire alcune buone pratiche:
+
+* **Scrivi a mano gli esempi di codice.**
+  Digitare ogni riga manualmente ti aiuterà ad apprendere più velocemente e a riconoscere più facilmente gli errori e a familiarizzare con i messaggi di errore del compilatore.
+  Rifletti su ciò che fa ogni istruzione e su come contribuisce al funzionamento del programma.
+
+* **Analizza e correggi gli errori.**
+  Gli errori sono parte integrante dell’apprendimento.
+  Prima di chiedere aiuto, prova a risolvere i problemi da solo.
+  Imparerai così a usare strumenti fondamentali come il *debugger*, che verrà trattato nei capitoli successivi.
+
+* **Sperimenta liberamente.**
+  Modifica i valori, cambia i testi, aggiungi nuove operazioni.
+  Scoprire “cosa succede se…” è uno dei modi più efficaci per consolidare i concetti.
+
+* **Consulta le sezioni di verifica.**
+  Le domande e i quiz presenti in alcune lezioni servono a valutare la comprensione e stimolare il ragionamento.
+  Se non riesci a risolverli subito, prenditi il tempo necessario e rivedi gli argomenti collegati.
+
+* **Scrivi piccoli programmi autonomi.**
+  Applicare ciò che si è appena appreso rafforza la memoria e sviluppa la capacità di problem solving.
+
+## **Consigli personali**
+Dove posso programmare? Io personalmente, per studiare, conisglio vivamente [**Visual Studio Code**](https://code.visualstudio.com/download), poichè è chiaro e personalizzabile.  
+Queste che seguiranno sono estensioni che ritengo utili per l'apprendimento, presto capirete quanto siano utili... (Non mi metterò a trattare estensioni rigurdanti l'estetica del software):
+*Better C++ Syntax*, *CMake*, *CMake Tools*, *Code Runner*, *Error Lens*.
+
+## **Domande Frequenti**
+
+**1. Cosa fare se un concetto non è chiaro?**
+In caso di difficoltà:
+
+* Leggi i commenti o le note aggiuntive alla lezione.
+* Controlla le lezioni successive: spesso un concetto viene ripreso e approfondito.
+* Cerca informazioni specifiche o messaggi d’errore tramite un motore di ricerca.
+* Consulta comunità specializzate come *Stack Overflow*.
+* Se necessario, salta temporaneamente la sezione e torna su di essa in un secondo momento.
+Per ogni ulteriore suggirimento sono disponibile in dm su discord.
+
+**2. Come posso ripassare un concetto dimenticato?**
+Si può sflogiare mano a mano la repository, oppure si può consultare il glossario dei termini del linguaggio C++ redatto da Bjarne Stroustrup.
+
+---
+
+### **Informazioni sul Documento**
+
+* **Autore:** TheNeku
+* **Licenza:** Apache License 2.0
